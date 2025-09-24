@@ -1,0 +1,13 @@
+# Virtual Environment
+nag/
+venv/
+
+# Secrets file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
