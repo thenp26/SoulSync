@@ -11,3 +11,6 @@ __pycache__/
 
 # Streamlit cache
 .streamlit/
+
+# impb directory
+impb/

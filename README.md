@@ -2,6 +2,10 @@
 
 An AI-powered web application that detects your facial emotion in real-time and recommends a music playlist to match your mood.
 
+*(In one line: it's like having a DJ who is also your therapist... and also maybe your crush?)*
+
+
+
 ---
 
 ## ✨ Features
@@ -45,13 +49,13 @@ An AI-powered web application that detects your facial emotion in real-time and 
     ```
 
 ---
-
+    
 ## 🔧 Configuration
-
+    
 *(Note: The current version uses dummy data. The steps below are for enabling the real Spotify API.)*
-
+    
 To use the Spotify API, you need to set up your credentials.
-
+    
 1.  Create an application on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).
 2.  Create a `.env` file in the project's root directory.
 3.  Add your credentials to the `.env` file:
@@ -69,3 +73,7 @@ To run the application, execute the following command in your terminal:
 
 ```bash
 streamlit run app.py
+
+---
+**🚀 Future Development
+The next major update will connect the app directly to the Spotify API, allowing users to create playlists in their accounts. The final version of the project will be deployed and hosted on Streamlit Community Cloud for anyone to use!
