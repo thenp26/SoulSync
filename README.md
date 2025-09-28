@@ -2,6 +2,9 @@
 
 An AI-powered web application that detects your facial emotion in real-time and recommends a music playlist to match your mood.
 
+Version 0.2 
+updates : added a feature for detecting the dominant emotion from by capturing upto 20 emotion 
+
 *(In one line: it's like having a DJ who is also your therapist... and also maybe your crush?)*
 
 
@@ -30,7 +33,7 @@ An AI-powered web application that detects your facial emotion in real-time and 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/SoulSync.git](https://github.com/YOUR_USERNAME/SoulSync.git)
+    git clone [https://github.com/thenp26/SoulSync.git](https://github.com/thnp26/SoulSync.git)
     cd SoulSync
     ```
 
